@@ -3,7 +3,7 @@
 ## Template Features:-
 
 
-## <a href="https://.netlify.app/"> LIVE DEMO</a>
+## <a href="https://shiv-shala-website.netlify.app"> LIVE DEMO</a>
 
 <img src="./screenshots/page.png" width="100%" height="auto" />
 
@@ -55,30 +55,6 @@
 ### NewsLetter Section
 
 ### Contact Section
-
-<details>
-<summary> Home Page</summary>
-
-1. Coding Start  
-2. Header   
-3. banner section  
-4. fun facts section   
-5. courses section   
-6. testimonials section
-7. bai section
-8. footer   
-9. create all other pages 
-
-</details>
-
-<details>
-<summary> Courses Page</summary>
-
-1. breadcrumb  
-2. courses section   
-3. pagination 
-</details>
-
 
 <p align="center">
   <b>Design Create by <a href="https://github.com/shivkumarprajapat">Shiv Kumar Prajapat</a></b>
